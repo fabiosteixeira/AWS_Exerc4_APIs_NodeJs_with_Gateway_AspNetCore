@@ -1,0 +1,77 @@
+{
+    "ReRoutes": [
+      {
+        "DownstreamPathTemplate": "/produtos/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 5000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/produtos/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 5000
+          }
+        ],
+        "UpstreamPathTemplate": "/produtos/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/carrinhos/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinhos/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/carrinhos/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinhos/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/pedidos/",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/pedidos/",
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/pedidos/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 3000
+          }
+        ],
+        "UpstreamPathTemplate": "/pedidos/{everything}",
+        "UpstreamHttpMethod": [ "Get" ]
+      }
+    ],
+    "GlobalConfiguration": { }
+  }
