@@ -1,0 +1,14 @@
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/bin/Debug/netcoreapp2.2/Pedido.API.deps.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/bin/Debug/netcoreapp2.2/Pedido.API.runtimeconfig.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/bin/Debug/netcoreapp2.2/Pedido.API.runtimeconfig.dev.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/bin/Debug/netcoreapp2.2/Pedido.API.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/bin/Debug/netcoreapp2.2/Pedido.API.pdb
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.csprojAssemblyReference.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.csproj.CoreCompileInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.RazorAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.RazorAssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.AssemblyInfoInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.AssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.RazorTargetAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Pedido.API/obj/Debug/netcoreapp2.2/Pedido.API.pdb

@@ -1,0 +1,14 @@
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/bin/Debug/netcoreapp2.2/Catalogo.API.deps.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/bin/Debug/netcoreapp2.2/Catalogo.API.runtimeconfig.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/bin/Debug/netcoreapp2.2/Catalogo.API.runtimeconfig.dev.json
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/bin/Debug/netcoreapp2.2/Catalogo.API.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/bin/Debug/netcoreapp2.2/Catalogo.API.pdb
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.csprojAssemblyReference.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.csproj.CoreCompileInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.RazorAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.RazorAssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.AssemblyInfoInputs.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.AssemblyInfo.cs
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.RazorTargetAssemblyInfo.cache
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.dll
+/Users/fabiosteixeira/PosDevWEB/Entregas/AWS/Exercicio4/Catalogo.API/obj/Debug/netcoreapp2.2/Catalogo.API.pdb
